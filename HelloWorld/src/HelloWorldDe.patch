@@ -1,0 +1,19 @@
+commit 2f354e8a9539a6cd065b349398f53f47409c4698
+Author: John Martinez <johnjmartinez@utexas.edu>
+Date:   Sun Sep 28 01:47:14 2014 -0500
+
+    Commiting HelloWorlds
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..0a9b78c 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Hallo Welt!");
+ 	}
+ 
+ }
